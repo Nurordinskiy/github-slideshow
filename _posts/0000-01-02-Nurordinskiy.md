@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Diyar Future intern and Akim
 Use the left arrow to go back!
